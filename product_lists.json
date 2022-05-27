@@ -37,7 +37,46 @@
     "imageURL": "https://rukminim1.flixcart.com/image/416/416/khmbafk0/smart-band-tag/u/z/6/no-yes-fb418bkcr-android-ios-fitbit-yes-original-imafxhe4ff7ys5bc.jpeg?q=70",
     "sellerName": "RetailNet",
     "isNewProduct": true
-  }
+  },
+    {
+        "name": "Lost Mountains Half Sleeve T-Shirt",
+        "productId": "EURO19938204",
+        "brandName": "Lost Mountains",
+        "category": "Tshirt",
+        "companyAssured": true,
+        "rating": "3.9",
+        "price": "399",
+        "discount": "",
+        "imageURL": "https://images.bewakoof.com/t540/lost-mountains-half-sleeve-t-shirt-272010-1651248011-1.jpg",
+        "sellerName": "Bewakoof",
+        "isNewProduct": true
+    },
+    {
+        "name": "iPhone 13",
+        "productId": "EURO19938205",
+        "brandName": "Apple",
+        "category": "Mobile",
+        "companyAssured": true,
+        "rating": "4.9",
+        "price": "47900",
+        "discount": "",
+        "imageURL": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-mini-green-select?wid=470&hei=556&fmt=png-alpha&.v=1645036275894",
+        "sellerName": "Retailnet",
+        "isNewProduct": true
+    },
+    {
+        "name": "Oliver Green Leather Men's Wallet",
+        "productId": "EURO19938206",
+        "brandName": "Wildhorn ",
+        "category": "wallet",
+        "companyAssured": true,
+        "rating": "4.9",
+        "price": "900",
+        "discount": "",
+        "imageURL": "https://m.media-amazon.com/images/I/91zgGGTSWHL._SX679_.jpg",
+        "sellerName": "Retailnet",
+        "isNewProduct": true
+    }
   // Similarly, you have to add minimum 10 products with the same fields.
   //you can use image from public directory or external-links
 ]
